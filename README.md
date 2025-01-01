@@ -14,3 +14,9 @@
 ###### 01- Openai-intro repo 
 > A quick starter section that provides example of prompts, format (e.g. json). 
 
+###### 2- openai-prompt-engineering
+> Exploring different prompt and drawback of LLM. 
+
+###### 3- openai-rag 
+> Using a vector database generated from csv file and use it for search. 
+
