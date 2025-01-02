@@ -29,9 +29,6 @@
 ###### 6- openai-image-vision
 > Using DALLE-3 we can generate images, and ask to vision the image. 
 
-###### 3- openai-rag 
-> Using a vector database generated from csv file and use it for search. 
-
 ###### 7- openai-talk-to-text
 > ask openAI chatgpt to talk and generate an audio
 
